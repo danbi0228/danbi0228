@@ -2,5 +2,5 @@
 
 ![danbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=danbi0228&show_icons=true&theme=radical)
 
-> love baseball, music, ..   
-> study java
+> 💫 love baseball, music, ..   
+> 💫 study java
