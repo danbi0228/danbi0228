@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<p> 📚 STUDYING 📚 </p>
+<p style="font-weight: bold;"> 📚 STUDYING 📚 </p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -16,6 +16,7 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
 	<br>
+    <br>
 </div>
 
 <div align="center">
